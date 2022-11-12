@@ -1,0 +1,26 @@
+.resume {
+    width: 80%;
+    align-items:center;
+    font-family: "Arial", sans-serif;
+    color: rgb(231, 224, 219)
+}
+
+.about {
+    width:auto;
+  
+    align-items:left;
+    height: calc(100vh-100px);
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items: left;
+    text-align: left;
+    color: rgb(2, 16, 29);
+}
+
+.about h2 {
+    font-family: "Arial", sans-serif;
+    font-size: 50px;
+    color:black;
+    height: 20px;
+}

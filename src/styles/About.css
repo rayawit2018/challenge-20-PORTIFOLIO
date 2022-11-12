@@ -1,0 +1,12 @@
+.home {
+    width: 100%;
+    align-items:center;
+   align-items: flex-start;
+    font-family: "Arial", sans-serif;
+    color: rgb(8, 4, 1)
+}
+
+.body {
+    margin: 0;
+    align-items: center;
+}
